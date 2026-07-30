@@ -1,0 +1,26 @@
+# Notebook environment
+jupyterlab
+ipykernel
+
+# Web crawling and document extraction
+aiohttp
+beautifulsoup4
+easyocr
+langid
+lxml
+numpy
+opencv-python
+pdf2image
+playwright
+PyMuPDF
+pymupdf4llm
+trafilatura
+w3lib
+
+# Chunking, vector search, reranking, and answer generation
+chromadb
+FlagEmbedding
+openai
+sentence-transformers
+tiktoken
+torch
